@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+}
+
+header button {
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+}
